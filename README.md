@@ -1,4 +1,6 @@
 ```
+git clone git@github.com:avevlad/ts-node-hello-world.git
+npm install
 npx ts-node-transpile-only src/index.ts
 ```
 
